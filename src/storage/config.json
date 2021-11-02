@@ -1,0 +1,5 @@
+{
+  "token": "yourTokenHere",
+  "voicechannel": "voiceChannelIDHere",
+  "guildid": "guildIDHere"
+}
